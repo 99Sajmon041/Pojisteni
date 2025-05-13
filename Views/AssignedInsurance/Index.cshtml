@@ -1,0 +1,50 @@
+﻿@model List<AgreedInsurance>
+
+
+<div class="mb-5">
+    <h2>Sjednané pojišťovací smlouvy</h2>
+</div>
+
+<div class="row mb-5">
+    <div class="col">
+        <form method="get" class="d-flex" role="search">
+            <input class="form-control me-2" style="width: 400px" type="search" name="search" value="@ViewData["Search"]" placeholder="Hledat podle jména / příjmení" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Hledat</button>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Datum vzniku smlouvy</td>
+            <td>Datum zániku smlouvy</td>
+            <td>Aktivní smlouva</td>
+            <td>Jméno</td>
+            <td>Příjmení</td>
+            <td>Trvalá adresa</td>
+            <td>Pojištěný objekt</td>
+            <td>Roční platba</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var agreedInsurance in Model)
+        {
+            <tr>
+                <td>@agreedInsurance.EstablishmentDate.ToShortDateString()</td>
+                <td>@agreedInsurance.ValidTo.ToShortDateString()</td>
+                <td>@(agreedInsurance.Active ? "Aktivní" : "Neaktivní")</td>
+                <td>@agreedInsurance!.InsuredPerson!.FirstName</td>
+                <td>@agreedInsurance!.InsuredPerson!.LastName</td>
+                <td>@agreedInsurance!.InsuredPerson!.Address</td>
+                <td>@agreedInsurance!.Insurance!.InsuredObject</td>
+                <td>@string.Format("{0:N2} Kč", agreedInsurance!.Insurance!.AnnualPayment)</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-action="Detail" asp-route-id="@agreedInsurance.Id">
+                        Detail
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

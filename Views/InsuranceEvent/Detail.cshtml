@@ -1,0 +1,65 @@
+﻿@model InsuranceEvent
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Detail pojistné události</h2>
+
+        <form method="get">
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Datum vzniku</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly value="@Model.OccurredOn.ToShortDateString()">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Škodná částka</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly value="@string.Format("{0:2N} Kč", Model.AmountOfDamage)">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Celé jméno</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="FullName">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Popis události</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="EventDescription">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Pokryté pojištění</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly value="@Model.Insurance!.Description">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Pojištěný objekt</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly value="@Model.Insurance.InsuredObject">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-primary" asp-controller="InsuranceEvent" asp-action="Edit" asp-route-id="@Model.Id" role="button">Upravit</a>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-danger" asp-controller="InsuranceEvent" asp-action="Delete" asp-route-id="@Model.Id"
+                       role="button" onclick="return confirm('Opravdu chcete smazat ?')">Odstranit</a>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-primary" asp-controller="InsuranceEvent" asp-action="Index" role="button">Zpět na seznam</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

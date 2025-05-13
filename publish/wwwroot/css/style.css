@@ -1,0 +1,54 @@
+﻿.alert.fade {
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+    .alert.fade.show {
+        opacity: 1;
+    }
+
+.custom-header {
+    background-color: #007BFF;
+    margin-bottom: 5px;
+    height: 55px;
+}
+
+    .custom-header .nav-link {
+        color: white;
+        transition: background-color 0.2s ease-in-out;
+        padding: 0.5rem 1rem;
+        border-radius: 0.25rem;
+    }
+
+        .custom-header .nav-link:hover,
+        .custom-header .nav-link.active {
+            background-color: #004080;
+            text-decoration: none;
+        }
+
+    .custom-header .user-info {
+        color: white;
+    }
+
+    .custom-header .btn-logout {
+        border-color: white;
+        color: white;
+    }
+
+        .custom-header .btn-logout:hover {
+            background-color: white;
+            color: #007BFF;
+        }
+
+thead th.rounded-top-left {
+    border-top-left-radius: 0.5rem;
+}
+
+thead th.rounded-top-right {
+    border-top-right-radius: 0.5rem;
+}
+
+.table-primary-custom thead {
+    background-color: #4682B4;
+    color: #fff;
+}

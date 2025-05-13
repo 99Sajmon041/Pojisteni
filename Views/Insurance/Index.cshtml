@@ -1,0 +1,45 @@
+﻿@model List<Insurance>
+
+<div class="mb-5">
+    <h2>Seznam pojištění</h2>
+</div>
+
+<div class="row mb-5 mt-5" style="text-align: right">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Insurance" asp-action="Create">Přidat Pojištění</a>
+    </div>
+</div>
+
+<div class="row mb-5">
+    <div class="col">
+        <form method="get" class="d-flex" role="search">
+            <input class="form-control me-2" style="width: 400px" type="search" name="search" value="@ViewData["Search"]" placeholder="Hledat podle: Osoba / věc" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Hledat</button>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Osoba / Věc</td>
+            <td>Popis pojištění</td>
+            <td>Roční platba</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var insurance in Model)
+        {
+            <tr>
+                <td>@insurance.InsuredObject</td>
+                <td>@insurance.Description</td>
+                <td>@string.Format("{0:N2} Kč", insurance.AnnualPayment)</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Insurance" asp-action="Detail" asp-route-id="@insurance.Id">
+                        Detail
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

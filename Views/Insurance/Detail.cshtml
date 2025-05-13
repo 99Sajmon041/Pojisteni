@@ -1,0 +1,44 @@
+﻿@model Insurance
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Detail Pojištění</h2>
+
+        <form method="get">
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Osoba / Věc</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="InsuredObject">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Popis pojištění</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="Description">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Roční platba</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="AnnualPayment">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-primary" asp-controller="Insurance" asp-action="Edit" asp-route-id="@Model.Id" role="button">Upravit</a>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-danger" asp-controller="Insurance" asp-action="Delete" asp-route-id="@Model.Id"
+                       role="button" onclick="return confirm('Opravdu chcete smazat ?')">Odstranit</a>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-primary" asp-controller="Insurance" asp-action="Index" role="button">Zpět na seznam</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

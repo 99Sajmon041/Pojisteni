@@ -1,0 +1,498 @@
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.AssemblyInfo.cs
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\appsettings.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.staticwebassets.runtime.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.exe
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Pojisteni.pdb
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Humanizer.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\scopedcss\bundle\Pojisteni.styles.css
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\scopedcss\projectbundle\Pojisteni.bundle.scp.css
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\5phqwtog8w-61n19gt1b8.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\v8fw0dhrfa-xtxxf3hu2r.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\7vqliugga5-bqjiyaj88i.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\we7ex04gap-c2jlpeoesf.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\6ubl6qhke6-erw9l3u2r3.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\y1gsnayats-aexeepp0ev.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\9nzrg5p25k-d7shbmvgxk.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\23b89v7q1w-ausgxo2sd3.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\faerczcikx-k8d9w2qqmf.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\hr9d7sf8c9-cosvhxvwiu.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\orbdbaezpi-ub07r2b239.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\czce870zoc-fvhpjtyr6v.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\syox9arr1z-b7pk76d08c.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\23a9hfh816-fsbi9cje9m.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\3rn4gc5tuz-rzd6atqjts.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\v5ggtskr06-ee0r1s7dh0.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\b92fht8hnn-dxx9fxp4il.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\8abqxbdhp1-jd9uben2k1.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\j587vvh5cb-khv3u5hwcm.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\josccwou2t-r4e9w2rdcm.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\97i354cnqv-lcd1t2u6c8.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\wcqxpukk74-c2oey78nd0.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\co51gpv20o-tdbxkamptv.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\lrxou85xtk-j5mq2jizvt.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\thi94v7nio-06098lyss8.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\qbeqh1puny-nvvlpmu67g.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\epvbi088co-s35ty4nyc5.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\xbz8muaaid-pj5nd1wqec.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\7yefuikac5-46ein0sx1k.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\wbtfp1e8qi-v0zj4ognzu.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\vwosqdvv6p-37tfw0ft22.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\11w459v20u-hrwsygsryq.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\y63lmfkj9g-pk9g2wxc8p.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\sa06t0r3tb-ft3s53vfgj.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\81mlcll9ij-6cfz1n2cew.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\9f9e08z1nz-6pdc2jztkx.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\jlsa62g6u6-493y06b0oq.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\s77q99fiir-iovd86k7lj.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\joeqh52r0x-vr1egmr9el.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\an6utopk4h-kbrnm935zg.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\snh2w11zk8-jj8uyg4cgr.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\9k4f4hx7hc-y7v9cxd14o.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\owf8v4dg98-notf2xhcfb.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\wwwmybj7y8-h1s4sie4z3.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\8y728a4g5f-63fj8s7r0e.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\ho1ctngqg1-0j3bgjxly4.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\g3pfx4q25j-47otxtyo56.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\s89ordjtq5-4v8eqarkd7.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\uhfg93qjl0-356vix0kms.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\1xerga7tlf-83jwlth58m.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\pp57ihnjdh-mrlpezrjn3.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\4subj1vl07-lzl9nlhx6b.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\w3p0sffan2-ag7o75518u.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\swamunh4uv-x0q3zqp4vz.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\d67nr8x5lz-0i3buxo5is.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\mka8haxb31-o1o13a6vjx.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\xvvt0tgogc-ttgo8qnofa.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\mgqk9zh2fa-2z0ns9nrw6.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\oc7hcokznj-muycvpuwrr.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\mtgo0w3tf4-87fc7y1x7t.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\56uf1b9f2k-mlv21k5csn.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\5jmj6fm578-m3i6rznxsd.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\l2b9w14tz7-m3i6rznxsd.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.Pojisteni.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.Pojisteni.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.build.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.Up2Date
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\refint\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.pdb
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\Pojisteni.genruntimeconfig.cache
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\ref\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\bctg78c9bg-3y8m7uxm6z.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\da54038g6k-hmwsoj4w4z.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\obj\Debug\net9.0\compressed\urqh95nz2b-ncva9ofckl.gz
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\web.config
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\web.config
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\appsettings.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.AssemblyInfo.cs
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\refint\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.pdb
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\web.config
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\web.config
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\appsettings.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\appsettings.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\publish\publish\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.staticwebassets.endpoints.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.staticwebassets.runtime.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.exe
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.deps.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.runtimeconfig.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Pojisteni.pdb
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Humanizer.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\scopedcss\bundle\Pojisteni.styles.css
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\scopedcss\projectbundle\Pojisteni.bundle.scp.css
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\bctg78c9bg-3y8m7uxm6z.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\urqh95nz2b-ncva9ofckl.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\5phqwtog8w-61n19gt1b8.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\da54038g6k-hmwsoj4w4z.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\v8fw0dhrfa-xtxxf3hu2r.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\7vqliugga5-bqjiyaj88i.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\we7ex04gap-c2jlpeoesf.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\6ubl6qhke6-erw9l3u2r3.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\y1gsnayats-aexeepp0ev.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\9nzrg5p25k-d7shbmvgxk.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\23b89v7q1w-ausgxo2sd3.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\faerczcikx-k8d9w2qqmf.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\hr9d7sf8c9-cosvhxvwiu.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\orbdbaezpi-ub07r2b239.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\czce870zoc-fvhpjtyr6v.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\syox9arr1z-b7pk76d08c.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\23a9hfh816-fsbi9cje9m.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\3rn4gc5tuz-rzd6atqjts.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\v5ggtskr06-ee0r1s7dh0.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\b92fht8hnn-dxx9fxp4il.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\8abqxbdhp1-jd9uben2k1.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\j587vvh5cb-khv3u5hwcm.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\josccwou2t-r4e9w2rdcm.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\97i354cnqv-lcd1t2u6c8.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\wcqxpukk74-c2oey78nd0.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\co51gpv20o-tdbxkamptv.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\lrxou85xtk-j5mq2jizvt.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\thi94v7nio-06098lyss8.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\qbeqh1puny-nvvlpmu67g.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\epvbi088co-s35ty4nyc5.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\xbz8muaaid-pj5nd1wqec.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\7yefuikac5-46ein0sx1k.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\wbtfp1e8qi-v0zj4ognzu.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\vwosqdvv6p-37tfw0ft22.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\11w459v20u-hrwsygsryq.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\y63lmfkj9g-pk9g2wxc8p.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\sa06t0r3tb-ft3s53vfgj.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\81mlcll9ij-6cfz1n2cew.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\9f9e08z1nz-6pdc2jztkx.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\jlsa62g6u6-493y06b0oq.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\s77q99fiir-iovd86k7lj.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\joeqh52r0x-vr1egmr9el.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\an6utopk4h-kbrnm935zg.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\snh2w11zk8-jj8uyg4cgr.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\9k4f4hx7hc-y7v9cxd14o.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\owf8v4dg98-notf2xhcfb.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\wwwmybj7y8-h1s4sie4z3.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\8y728a4g5f-63fj8s7r0e.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\ho1ctngqg1-0j3bgjxly4.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\g3pfx4q25j-47otxtyo56.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\s89ordjtq5-4v8eqarkd7.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\uhfg93qjl0-356vix0kms.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\1xerga7tlf-83jwlth58m.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\pp57ihnjdh-mrlpezrjn3.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\4subj1vl07-lzl9nlhx6b.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\w3p0sffan2-ag7o75518u.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\swamunh4uv-x0q3zqp4vz.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\d67nr8x5lz-0i3buxo5is.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\mka8haxb31-o1o13a6vjx.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\xvvt0tgogc-ttgo8qnofa.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\mgqk9zh2fa-2z0ns9nrw6.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\oc7hcokznj-muycvpuwrr.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\mtgo0w3tf4-87fc7y1x7t.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\56uf1b9f2k-mlv21k5csn.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\5jmj6fm578-m3i6rznxsd.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\compressed\l2b9w14tz7-m3i6rznxsd.gz
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.Pojisteni.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.Pojisteni.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.build.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Pojisteni.props
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.csproj.Up2Date
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\Pojisteni.genruntimeconfig.cache
+C:\Users\simon\Desktop\Pojisteni - PROJEKT\Pojisteni\obj\Debug\net9.0\ref\Pojisteni.dll

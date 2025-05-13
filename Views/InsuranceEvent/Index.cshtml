@@ -1,0 +1,46 @@
+﻿
+@model List<InsuranceEvent>
+
+<div class="mb-5">
+    <h2>Pojistné události</h2>
+</div>
+
+<div class="row mb-5">
+    <div class="col">
+        <form method="get" class="d-flex" role="search">
+            <input class="form-control me-2" style="width: 400px" type="search" name="search" value="@ViewData["SearchEvent"]" placeholder="Hledat podle jména / příjmení" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Hledat</button>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Datum vzniku</td>
+            <td>Škodná částka</td>
+            <td>Jméno Příjmení</td>
+            <td>Popis škody</td>
+            <td>Pokryté pojištění</td>
+            <td>Pojištěný objekt</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var insuredEvent in Model)
+        {
+            <tr>
+                <td>@insuredEvent.OccurredOn.ToShortDateString()</td>
+                <td>@string.Format("{0:N2} Kč", insuredEvent.AmountOfDamage)</td>
+                <td>@insuredEvent.FullName</td>
+                <td>@insuredEvent.EventDescription</td>
+                <td>@insuredEvent.Insurance!.Description</td>
+                <td>@insuredEvent.Insurance.InsuredObject</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-action="Detail" asp-route-id="@insuredEvent.Id">
+                        Detail
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

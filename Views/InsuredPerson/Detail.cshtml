@@ -1,0 +1,200 @@
+﻿@model InsuredPersonAndInsuraceDetailViewModel
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Pojištěnec: @(Model.FirstName + " " + @Model.LastName)</h2>
+
+        <form>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Jméno</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="FirstName">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Příjmení</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="LastName">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Trvalá adresa</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="Address">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Datum narození</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly value="@Model.DateOfBirth?.ToShortDateString()">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Email (Uživatelské jméno)</label>
+                <div class="col-sm-8">
+                    <input class="form-control" readonly asp-for="@Model.Email">
+                </div>
+            </div>
+
+            <div class="row justify-content-end">
+                <div class="d-grid me-2" style="width: 200px;">
+                    <a class="btn btn-primary" asp-controller="InsuredPerson" asp-action="Edit" asp-route-email="@Model.Email" role="button">Upravit</a>
+                </div>
+                <div class="d-grid" style="width: 200px;">
+                    <a class="btn btn-primary" asp-controller="AssignedInsurance" asp-action="Create" asp-route-id="@Model.Id" role="button">Přidat pojištění</a>
+                </div>
+            </div>
+
+            @if (User.IsInRole(Role.admin))
+            {
+                <div class="row justify-content-end mt-2">
+                    <div class="d-grid me-2" style="width: 200px;">
+                        <a class="btn btn-danger" asp-controller="InsuredPerson" asp-action="Delete" asp-route-email="@Model.Email"
+                        role="button" onclick="return confirm('Opravdu chcete smazat ?')">Odstranit</a>
+                    </div>
+                    <div class="d-grid" style="width: 200px;">
+                        <a class="btn btn-primary" asp-controller="InsuredPerson" asp-action="Index" role="button">Zpět na seznam</a>
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="d-grid" style="width: auto;">
+                        <a class="btn btn-primary" asp-controller="InsuranceEvent" asp-action="Create" asp-route-id="@Model.Id" role="button">
+                            Přidat pojistnou událost
+                        </a>
+                    </div>
+                </div>
+            }
+        </form>
+    </div>
+</div>
+<hr />
+
+
+<div class="row justify-content-center">
+    <div class="col-md-9">
+        <h4 class="mb-3">Sjednaná pojištění</h4>
+
+        <div class="table-responsive rounded shadow-sm">
+            <table class="table table-striped table-bordered mb-0">
+                <thead class="bg-primary text-white">
+                    <tr>
+                        <th class="rounded-top-left">Datum sjednání</th>
+                        <th>Datum ukončení</th>
+                        <th>Stav</th>
+                        <th>Objekt pojištění</th>
+                        <th>Roční platba</th>
+                        <th>Popis</th>
+                        <th>Detail</th>
+                        <th class="rounded-top-right">Smazat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if(Model.AgreedInsurances.Any())
+                    {
+                        foreach(var insurance in Model.AgreedInsurances)
+                        {
+                            <tr>
+                                <td>@insurance.EstablishmentDate.ToShortDateString()</td>
+                                <td>@insurance.ValidTo.ToShortDateString()</td>
+                                <td>@(insurance.Active ? "Aktivní" : "neaktivní")</td>
+                                <td>@insurance.Insurance!.InsuredObject</td>
+                                <td>@String.Format("{0:N2} Kč", insurance.Insurance!.AnnualPayment)</td>
+                                <td>@insurance.Insurance!.Description</td>
+                                @if (User.IsInRole(Role.admin))
+                                {
+                                    <td>
+                                        <a asp-controller="AssignedInsurance" asp-action="Detail" asp-route-id="@insurance.Id">
+                                            Detail
+                                        </a>
+                                    </td>
+                                    <td>
+                                    <a asp-controller="AssignedInsurance" asp-action="Delete" asp-route-id="@insurance.Id" onclick="return confirm('Opravdu chcete smazat ?')">
+                                         Odstranit
+                                    </a>
+                                    </td>
+                                }
+                                else
+                                {
+                                    <td>Nemáte oprávnění</td>
+                                    <td>Nemáte oprávnění</td>
+                                }
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="5" class="text-center text-muted">Žádné sjednané pojištění</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<div class="row mt-5 mb-3">
+    <div class="col">
+        <h3>Pojistné události</h3>
+    </div>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover align-middle">
+        <thead class="table-primary-custom">
+            <tr>
+                <th scope="col">Datum události</th>
+                <th scope="col">Popis události</th>
+                <th scope="col">Škodná částka</th>
+                <th scope="col">Detail</th>
+                <th scope="col" class="text-end">odstranit</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.InsuranceEvents.Any())
+            {
+                foreach (var e in Model.InsuranceEvents)
+                {
+                    <tr>
+                        <td>@e.OccurredOn.ToShortDateString()</td>
+                        <td>@e.EventDescription</td>
+                        <td>@string.Format("{0:N2} Kč", e.AmountOfDamage)</td>
+                        @if(User.IsInRole(Role.admin))
+                        {
+                        <td>
+                            <a asp-controller="InsuranceEvent" asp-action="Detail" asp-route-id="@e.Id">
+                                Detail
+                            </a>
+                        </td>
+                        <td class="text-end">
+                            <a asp-controller="InsuranceEvent" asp-action="Delete" asp-route-id="@e.Id" onclick="return confirm('Opravdu chcete smazat ?')">
+                                Odstranit
+                            </a>
+                        </td>
+                        }
+                        else
+                        {
+                            <td>Nemáte oprávnění</td>
+                            <td>Nemáte oprávnění</td>
+                        }
+
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center text-muted py-4">
+                        Zatím nejsou žádné pojistné události
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
