@@ -42,11 +42,11 @@ namespace Pojisteni.Services
             {
                 Firstname = "admin",
                 Lastname = "admin",
-                Email = "simon8durak@gmail.com",
+                Email = "simon@gmail.com",
                 UserName = "simon8durak@gmail.com"
             };
 
-            string password = "Durasi99";
+            string password = "Password96";
 
             var result = await userManager.CreateAsync(user, password);
             if(result.Succeeded)
