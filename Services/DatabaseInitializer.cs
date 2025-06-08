@@ -43,7 +43,7 @@ namespace Pojisteni.Services
                 Firstname = "admin",
                 Lastname = "admin",
                 Email = "simon@gmail.com",
-                UserName = "simon8durak@gmail.com"
+                UserName = "simon@gmail.com"
             };
 
             string password = "Password96";
